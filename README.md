@@ -32,7 +32,7 @@ The dashboard is organized into three main sections:
 - Count of all the indicators based on states.
 - Year-on-year change indicator.
 
-<img width="400" alt="image" src="https://github.com/Ria2810/Agri-Clinics-and-Agri-Business-Scheme-dashboard/assets/67699993/fa796a48-9108-4552-b8d0-380d77f84e8c"> <img width="450" alt="image" src="https://github.com/Ria2810/Agri-Clinics-and-Agri-Business-Scheme-dashboard/assets/67699993/3cb83883-baf5-4e45-aedf-151cd94fec8d">
+<img width="450" alt="image" src="https://github.com/Ria2810/Agri-Clinics-and-Agri-Business-Scheme-dashboard/assets/67699993/fa796a48-9108-4552-b8d0-380d77f84e8c"> <img width="500" alt="image" src="https://github.com/Ria2810/Agri-Clinics-and-Agri-Business-Scheme-dashboard/assets/67699993/3cb83883-baf5-4e45-aedf-151cd94fec8d">
 
 
 ### 2. Geographic
